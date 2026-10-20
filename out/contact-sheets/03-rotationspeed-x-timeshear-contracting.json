@@ -1,0 +1,402 @@
+[
+ {
+  "label": "rotationspeed=0 timeshear=0",
+  "hash": "e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.0556",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.1111",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.1667",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.2222",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.2778",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.3333",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.3889",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.4444",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.5",
+  "hash": "e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.0556",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.1111",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.1667",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.2222",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.2778",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.3333",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.3889",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.4444",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=0.2222 timeshear=0.5",
+  "hash": "ro0.2222e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.0556",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.1111",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.1667",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.2222",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.2778",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.3333",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.3889",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.4444",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=0.4444 timeshear=0.5",
+  "hash": "ro0.4444e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.0556",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.1111",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.1667",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.2222",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.2778",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.3333",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.3889",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.4444",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=0.6667 timeshear=0.5",
+  "hash": "ro0.6667e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.0556",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.1111",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.1667",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.2222",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.2778",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.3333",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.3889",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.4444",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=0.8889 timeshear=0.5",
+  "hash": "ro0.8889e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.0556",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.1111",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.1667",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.2222",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.2778",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.3333",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.3889",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.4444",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=1.1111 timeshear=0.5",
+  "hash": "ro1.1111e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.0556",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.1111",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.1667",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.2222",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.2778",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.3333",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.3889",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.4444",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=1.3333 timeshear=0.5",
+  "hash": "ro1.3333e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.0556",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.1111",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.1667",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.2222",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.2778",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.3333",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.3889",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.4444",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=1.5556 timeshear=0.5",
+  "hash": "ro1.5556e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.0556",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.1111",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.1667",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.2222",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.2778",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.3333",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.3889",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.4444",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=1.7778 timeshear=0.5",
+  "hash": "ro1.7778e0.995ex0.995i120j0.5see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0",
+  "hash": "ro2e0.995ex0.995i120j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.0556",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.0556"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.1111",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.1111"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.1667",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.1667"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.2222",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.2222"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.2778",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.2778"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.3333",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.3333"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.3889",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.3889"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.4444",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.4444"
+ },
+ {
+  "label": "rotationspeed=2 timeshear=0.5",
+  "hash": "ro2e0.995ex0.995i120j0.5see1ti0.5"
+ }
+]

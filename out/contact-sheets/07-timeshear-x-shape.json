@@ -1,0 +1,66 @@
+[
+ {
+  "label": "timeshear=0 shape=1",
+  "hash": "r420ro0.6e0.992ex0.992i120j0.3see1"
+ },
+ {
+  "label": "timeshear=0 shape=2",
+  "hash": "s2r420ro0.6e0.992ex0.992i120j0.3see1"
+ },
+ {
+  "label": "timeshear=0 shape=3",
+  "hash": "s3r420ro0.6e0.992ex0.992i120j0.3see1"
+ },
+ {
+  "label": "timeshear=0 shape=4",
+  "hash": "s4r420ro0.6e0.992ex0.992i120j0.3see1"
+ },
+ {
+  "label": "timeshear=100 shape=1",
+  "hash": "r420ro0.6e0.992ex0.992i120j0.3see1ti100"
+ },
+ {
+  "label": "timeshear=100 shape=2",
+  "hash": "s2r420ro0.6e0.992ex0.992i120j0.3see1ti100"
+ },
+ {
+  "label": "timeshear=100 shape=3",
+  "hash": "s3r420ro0.6e0.992ex0.992i120j0.3see1ti100"
+ },
+ {
+  "label": "timeshear=100 shape=4",
+  "hash": "s4r420ro0.6e0.992ex0.992i120j0.3see1ti100"
+ },
+ {
+  "label": "timeshear=200 shape=1",
+  "hash": "r420ro0.6e0.992ex0.992i120j0.3see1ti200"
+ },
+ {
+  "label": "timeshear=200 shape=2",
+  "hash": "s2r420ro0.6e0.992ex0.992i120j0.3see1ti200"
+ },
+ {
+  "label": "timeshear=200 shape=3",
+  "hash": "s3r420ro0.6e0.992ex0.992i120j0.3see1ti200"
+ },
+ {
+  "label": "timeshear=200 shape=4",
+  "hash": "s4r420ro0.6e0.992ex0.992i120j0.3see1ti200"
+ },
+ {
+  "label": "timeshear=300 shape=1",
+  "hash": "r420ro0.6e0.992ex0.992i120j0.3see1ti300"
+ },
+ {
+  "label": "timeshear=300 shape=2",
+  "hash": "s2r420ro0.6e0.992ex0.992i120j0.3see1ti300"
+ },
+ {
+  "label": "timeshear=300 shape=3",
+  "hash": "s3r420ro0.6e0.992ex0.992i120j0.3see1ti300"
+ },
+ {
+  "label": "timeshear=300 shape=4",
+  "hash": "s4r420ro0.6e0.992ex0.992i120j0.3see1ti300"
+ }
+]

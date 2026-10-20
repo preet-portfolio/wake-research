@@ -1,0 +1,722 @@
+[
+ {
+  "file": "out/svg/series/uji-001.svg",
+  "attempt": 1,
+  "hash": "r396ro-0.69rot0.31rota0.38e0.975ex0.975se600i56j0.2see1ti-65",
+  "params": {
+   "seed": 1,
+   "shape": 1,
+   "segments": 600,
+   "radius": 396,
+   "iterations": 56,
+   "expansionhori": 0.975,
+   "expansionverti": 0.975,
+   "rotationspeed": -0.69,
+   "rotationoriginhori": 0.31,
+   "rotationoriginverti": 0.38,
+   "timeshear": -65,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-001.svg",
+   "out": "out/plot-ready/uji-001.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 57,
+   "pen_down_mm": 10845,
+   "pen_up_mm": 282,
+   "minutes": 3.9,
+   "max_coverage": 0.77,
+   "cells_over": 0,
+   "hotspot_mm": [
+    71,
+    78.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-002.svg",
+  "attempt": 2,
+  "hash": "r435ro1.22rot0.43rota0.38e0.981ex0.981se600i64j0.2see2ti-56",
+  "params": {
+   "seed": 2,
+   "shape": 1,
+   "segments": 600,
+   "radius": 435,
+   "iterations": 64,
+   "expansionhori": 0.981,
+   "expansionverti": 0.981,
+   "rotationspeed": 1.22,
+   "rotationoriginhori": 0.43,
+   "rotationoriginverti": 0.38,
+   "timeshear": -56,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-002.svg",
+   "out": "out/plot-ready/uji-002.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 65,
+   "pen_down_mm": 17923,
+   "pen_up_mm": 326,
+   "minutes": 6.3,
+   "max_coverage": 0.85,
+   "cells_over": 0,
+   "hotspot_mm": [
+    37,
+    168.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-003.svg",
+  "attempt": 1,
+  "hash": "r399ro-0.98rot0.6rota0.33e0.972ex0.972se600i59j0see3ti47",
+  "params": {
+   "seed": 3,
+   "shape": 1,
+   "segments": 600,
+   "radius": 399,
+   "iterations": 59,
+   "expansionhori": 0.972,
+   "expansionverti": 0.972,
+   "rotationspeed": -0.98,
+   "rotationoriginhori": 0.6,
+   "rotationoriginverti": 0.33,
+   "timeshear": 47,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-003.svg",
+   "out": "out/plot-ready/uji-003.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 60,
+   "pen_down_mm": 15301,
+   "pen_up_mm": 313,
+   "minutes": 5.4,
+   "max_coverage": 0.93,
+   "cells_over": 0,
+   "hotspot_mm": [
+    141,
+    140.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-004.svg",
+  "attempt": 1,
+  "hash": "r413ro-1.27rot0.3rota0.37e0.976ex0.976se600i51j0.2see4ti60",
+  "params": {
+   "seed": 4,
+   "shape": 1,
+   "segments": 600,
+   "radius": 413,
+   "iterations": 51,
+   "expansionhori": 0.976,
+   "expansionverti": 0.976,
+   "rotationspeed": -1.27,
+   "rotationoriginhori": 0.3,
+   "rotationoriginverti": 0.37,
+   "timeshear": 60,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-004.svg",
+   "out": "out/plot-ready/uji-004.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 52,
+   "pen_down_mm": 11886,
+   "pen_up_mm": 293,
+   "minutes": 4.2,
+   "max_coverage": 0.88,
+   "cells_over": 0,
+   "hotspot_mm": [
+    133,
+    96.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-005.svg",
+  "attempt": 0,
+  "hash": "r400ro-1.01rot0.35rota0.62e0.976ex0.976se600i63j0see5ti45",
+  "params": {
+   "seed": 5,
+   "shape": 1,
+   "segments": 600,
+   "radius": 400,
+   "iterations": 63,
+   "expansionhori": 0.976,
+   "expansionverti": 0.976,
+   "rotationspeed": -1.01,
+   "rotationoriginhori": 0.35,
+   "rotationoriginverti": 0.62,
+   "timeshear": 45,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-005.svg",
+   "out": "out/plot-ready/uji-005.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 64,
+   "pen_down_mm": 17311,
+   "pen_up_mm": 335,
+   "minutes": 6.1,
+   "max_coverage": 0.77,
+   "cells_over": 0,
+   "hotspot_mm": [
+    59,
+    90.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-006.svg",
+  "attempt": 0,
+  "hash": "r389ro0.66rot0.64rota0.49e0.984ex0.984se600i53j0see6ti55",
+  "params": {
+   "seed": 6,
+   "shape": 1,
+   "segments": 600,
+   "radius": 389,
+   "iterations": 53,
+   "expansionhori": 0.984,
+   "expansionverti": 0.984,
+   "rotationspeed": 0.66,
+   "rotationoriginhori": 0.64,
+   "rotationoriginverti": 0.49,
+   "timeshear": 55,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-006.svg",
+   "out": "out/plot-ready/uji-006.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 54,
+   "pen_down_mm": 12406,
+   "pen_up_mm": 341,
+   "minutes": 4.4,
+   "max_coverage": 0.68,
+   "cells_over": 0,
+   "hotspot_mm": [
+    71,
+    72.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-007.svg",
+  "attempt": 3,
+  "hash": "r421ro0.94rot0.51rota0.6e0.983ex0.983se600i52j0.2see7ti65",
+  "params": {
+   "seed": 7,
+   "shape": 1,
+   "segments": 600,
+   "radius": 421,
+   "iterations": 52,
+   "expansionhori": 0.983,
+   "expansionverti": 0.983,
+   "rotationspeed": 0.94,
+   "rotationoriginhori": 0.51,
+   "rotationoriginverti": 0.6,
+   "timeshear": 65,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-007.svg",
+   "out": "out/plot-ready/uji-007.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 53,
+   "pen_down_mm": 10181,
+   "pen_up_mm": 352,
+   "minutes": 3.7,
+   "max_coverage": 0.81,
+   "cells_over": 0,
+   "hotspot_mm": [
+    141,
+    180.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-008.svg",
+  "attempt": 1,
+  "hash": "r429ro-0.89rot0.36rota0.34e0.976ex0.976se600i52j0.2see8ti72",
+  "params": {
+   "seed": 8,
+   "shape": 1,
+   "segments": 600,
+   "radius": 429,
+   "iterations": 52,
+   "expansionhori": 0.976,
+   "expansionverti": 0.976,
+   "rotationspeed": -0.89,
+   "rotationoriginhori": 0.36,
+   "rotationoriginverti": 0.34,
+   "timeshear": 72,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-008.svg",
+   "out": "out/plot-ready/uji-008.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 53,
+   "pen_down_mm": 10219,
+   "pen_up_mm": 240,
+   "minutes": 3.7,
+   "max_coverage": 0.78,
+   "cells_over": 0,
+   "hotspot_mm": [
+    137,
+    112.9
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-009.svg",
+  "attempt": 4,
+  "hash": "r399ro-0.94rot0.31rota0.53e0.983ex0.983se600i53j0see9ti-66",
+  "params": {
+   "seed": 9,
+   "shape": 1,
+   "segments": 600,
+   "radius": 399,
+   "iterations": 53,
+   "expansionhori": 0.983,
+   "expansionverti": 0.983,
+   "rotationspeed": -0.94,
+   "rotationoriginhori": 0.31,
+   "rotationoriginverti": 0.53,
+   "timeshear": -66,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-009.svg",
+   "out": "out/plot-ready/uji-009.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 54,
+   "pen_down_mm": 10184,
+   "pen_up_mm": 271,
+   "minutes": 3.6,
+   "max_coverage": 0.95,
+   "cells_over": 0,
+   "hotspot_mm": [
+    53,
+    100.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-010.svg",
+  "attempt": 0,
+  "hash": "r410ro-0.67rot0.32rota0.67e0.98ex0.98se600i55j0.2see10ti62",
+  "params": {
+   "seed": 10,
+   "shape": 1,
+   "segments": 600,
+   "radius": 410,
+   "iterations": 55,
+   "expansionhori": 0.98,
+   "expansionverti": 0.98,
+   "rotationspeed": -0.67,
+   "rotationoriginhori": 0.32,
+   "rotationoriginverti": 0.67,
+   "timeshear": 62,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-010.svg",
+   "out": "out/plot-ready/uji-010.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 56,
+   "pen_down_mm": 12344,
+   "pen_up_mm": 299,
+   "minutes": 4.4,
+   "max_coverage": 0.76,
+   "cells_over": 0,
+   "hotspot_mm": [
+    105,
+    58.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-011.svg",
+  "attempt": 0,
+  "hash": "r426ro0.84rot0.35rota0.57e0.976ex0.978se600i44j0see11ti45",
+  "params": {
+   "seed": 11,
+   "shape": 1,
+   "segments": 600,
+   "radius": 426,
+   "iterations": 44,
+   "expansionhori": 0.976,
+   "expansionverti": 0.978,
+   "rotationspeed": 0.84,
+   "rotationoriginhori": 0.35,
+   "rotationoriginverti": 0.57,
+   "timeshear": 45,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-011.svg",
+   "out": "out/plot-ready/uji-011.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 45,
+   "pen_down_mm": 10285,
+   "pen_up_mm": 361,
+   "minutes": 3.7,
+   "max_coverage": 0.69,
+   "cells_over": 0,
+   "hotspot_mm": [
+    67,
+    204.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-012.svg",
+  "attempt": 2,
+  "hash": "r407ro-0.95rot0.48rota0.66e0.972ex0.972se600i43j0see12ti-41",
+  "params": {
+   "seed": 12,
+   "shape": 1,
+   "segments": 600,
+   "radius": 407,
+   "iterations": 43,
+   "expansionhori": 0.972,
+   "expansionverti": 0.972,
+   "rotationspeed": -0.95,
+   "rotationoriginhori": 0.48,
+   "rotationoriginverti": 0.66,
+   "timeshear": -41,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-012.svg",
+   "out": "out/plot-ready/uji-012.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 44,
+   "pen_down_mm": 10495,
+   "pen_up_mm": 303,
+   "minutes": 3.7,
+   "max_coverage": 0.73,
+   "cells_over": 0,
+   "hotspot_mm": [
+    65,
+    112.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-013.svg",
+  "attempt": 1,
+  "hash": "r391ro-0.69rot0.61rota0.6e0.979ex0.974se600i47j0.2see13ti-34",
+  "params": {
+   "seed": 13,
+   "shape": 1,
+   "segments": 600,
+   "radius": 391,
+   "iterations": 47,
+   "expansionhori": 0.979,
+   "expansionverti": 0.974,
+   "rotationspeed": -0.69,
+   "rotationoriginhori": 0.61,
+   "rotationoriginverti": 0.6,
+   "timeshear": -34,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-013.svg",
+   "out": "out/plot-ready/uji-013.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 48,
+   "pen_down_mm": 13369,
+   "pen_up_mm": 310,
+   "minutes": 4.7,
+   "max_coverage": 0.62,
+   "cells_over": 0,
+   "hotspot_mm": [
+    33,
+    182.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-014.svg",
+  "attempt": 0,
+  "hash": "r404ro0.8rot0.47rota0.51e0.974ex0.974se600i46j0.2see14ti57",
+  "params": {
+   "seed": 14,
+   "shape": 1,
+   "segments": 600,
+   "radius": 404,
+   "iterations": 46,
+   "expansionhori": 0.974,
+   "expansionverti": 0.974,
+   "rotationspeed": 0.8,
+   "rotationoriginhori": 0.47,
+   "rotationoriginverti": 0.51,
+   "timeshear": 57,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-014.svg",
+   "out": "out/plot-ready/uji-014.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 47,
+   "pen_down_mm": 8839,
+   "pen_up_mm": 270,
+   "minutes": 3.2,
+   "max_coverage": 0.58,
+   "cells_over": 0,
+   "hotspot_mm": [
+    125,
+    168.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-015.svg",
+  "attempt": 1,
+  "hash": "r418ro-0.81rot0.64rota0.49e0.973ex0.973se600i55j0.2see15ti63",
+  "params": {
+   "seed": 15,
+   "shape": 1,
+   "segments": 600,
+   "radius": 418,
+   "iterations": 55,
+   "expansionhori": 0.973,
+   "expansionverti": 0.973,
+   "rotationspeed": -0.81,
+   "rotationoriginhori": 0.64,
+   "rotationoriginverti": 0.49,
+   "timeshear": 63,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-015.svg",
+   "out": "out/plot-ready/uji-015.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 56,
+   "pen_down_mm": 11517,
+   "pen_up_mm": 290,
+   "minutes": 4.1,
+   "max_coverage": 0.73,
+   "cells_over": 0,
+   "hotspot_mm": [
+    129,
+    150.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-016.svg",
+  "attempt": 1,
+  "hash": "r406ro0.73rot0.45rota0.32e0.987ex0.982se600i40j0.2see16ti-45",
+  "params": {
+   "seed": 16,
+   "shape": 1,
+   "segments": 600,
+   "radius": 406,
+   "iterations": 40,
+   "expansionhori": 0.987,
+   "expansionverti": 0.982,
+   "rotationspeed": 0.73,
+   "rotationoriginhori": 0.45,
+   "rotationoriginverti": 0.32,
+   "timeshear": -45,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-016.svg",
+   "out": "out/plot-ready/uji-016.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 41,
+   "pen_down_mm": 9915,
+   "pen_up_mm": 284,
+   "minutes": 3.5,
+   "max_coverage": 0.88,
+   "cells_over": 0,
+   "hotspot_mm": [
+    21,
+    126.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-017.svg",
+  "attempt": 0,
+  "hash": "r419ro1.15rot0.65rota0.62e0.986ex0.982se600i46j0.2see17ti36",
+  "params": {
+   "seed": 17,
+   "shape": 1,
+   "segments": 600,
+   "radius": 419,
+   "iterations": 46,
+   "expansionhori": 0.986,
+   "expansionverti": 0.982,
+   "rotationspeed": 1.15,
+   "rotationoriginhori": 0.65,
+   "rotationoriginverti": 0.62,
+   "timeshear": 36,
+   "jitter": 0.2
+  },
+  "check": {
+   "file": "out/svg/series/uji-017.svg",
+   "out": "out/plot-ready/uji-017.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 47,
+   "pen_down_mm": 13867,
+   "pen_up_mm": 324,
+   "minutes": 4.9,
+   "max_coverage": 1.04,
+   "cells_over": 0,
+   "hotspot_mm": [
+    181,
+    106.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-018.svg",
+  "attempt": 0,
+  "hash": "r413ro-1.37rot0.56rota0.54e0.985ex0.985se600i62j0see18ti48",
+  "params": {
+   "seed": 18,
+   "shape": 1,
+   "segments": 600,
+   "radius": 413,
+   "iterations": 62,
+   "expansionhori": 0.985,
+   "expansionverti": 0.985,
+   "rotationspeed": -1.37,
+   "rotationoriginhori": 0.56,
+   "rotationoriginverti": 0.54,
+   "timeshear": 48,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-018.svg",
+   "out": "out/plot-ready/uji-018.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 63,
+   "pen_down_mm": 19704,
+   "pen_up_mm": 316,
+   "minutes": 6.9,
+   "max_coverage": 1.13,
+   "cells_over": 0,
+   "hotspot_mm": [
+    137,
+    196.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-019.svg",
+  "attempt": 0,
+  "hash": "r382ro1.08rot0.48rota0.55e0.985ex0.984se600i50j0see19ti35",
+  "params": {
+   "seed": 19,
+   "shape": 1,
+   "segments": 600,
+   "radius": 382,
+   "iterations": 50,
+   "expansionhori": 0.985,
+   "expansionverti": 0.984,
+   "rotationspeed": 1.08,
+   "rotationoriginhori": 0.48,
+   "rotationoriginverti": 0.55,
+   "timeshear": 35,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-019.svg",
+   "out": "out/plot-ready/uji-019.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 51,
+   "pen_down_mm": 15304,
+   "pen_up_mm": 318,
+   "minutes": 5.3,
+   "max_coverage": 0.77,
+   "cells_over": 0,
+   "hotspot_mm": [
+    141,
+    190.5
+   ],
+   "pass": true
+  }
+ },
+ {
+  "file": "out/svg/series/uji-020.svg",
+  "attempt": 1,
+  "hash": "r394ro0.92rot0.34rota0.61e0.972ex0.972se600i43j0see20ti59",
+  "params": {
+   "seed": 20,
+   "shape": 1,
+   "segments": 600,
+   "radius": 394,
+   "iterations": 43,
+   "expansionhori": 0.972,
+   "expansionverti": 0.972,
+   "rotationspeed": 0.92,
+   "rotationoriginhori": 0.34,
+   "rotationoriginverti": 0.61,
+   "timeshear": 59,
+   "jitter": 0
+  },
+  "check": {
+   "file": "out/svg/series/uji-020.svg",
+   "out": "out/plot-ready/uji-020.a4.svg",
+   "paper": "a4",
+   "pen_mm": 0.3,
+   "lines": 44,
+   "pen_down_mm": 7463,
+   "pen_up_mm": 242,
+   "minutes": 2.7,
+   "max_coverage": 0.69,
+   "cells_over": 0,
+   "hotspot_mm": [
+    119,
+    194.6
+   ],
+   "pass": true
+  }
+ }
+]

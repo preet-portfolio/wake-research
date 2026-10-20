@@ -1,0 +1,402 @@
+[
+ {
+  "label": "timeshear=-160 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-160 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti-160"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-124.4444 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti-124.4444"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-88.8889 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti-88.8889"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-53.3333 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti-53.3333"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=-17.7778 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti-17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=0",
+  "hash": "r420rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=0.3333",
+  "hash": "r420ro0.3333rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=0.6667",
+  "hash": "r420ro0.6667rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=1",
+  "hash": "r420ro1rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=1.3333",
+  "hash": "r420ro1.3333rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=1.6667",
+  "hash": "r420ro1.6667rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=2",
+  "hash": "r420ro2rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=2.3333",
+  "hash": "r420ro2.3333rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=2.6667",
+  "hash": "r420ro2.6667rot0.35e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 rotationspeed=3",
+  "hash": "r420ro3rot0.35e0.99ex0.99i100j0.3see1ti160"
+ }
+]

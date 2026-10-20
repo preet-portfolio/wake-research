@@ -1,0 +1,402 @@
+[
+ {
+  "label": "timeshear=0 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1"
+ },
+ {
+  "label": "timeshear=0 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.2222 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.2222"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.4444 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.4444"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.6667 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.6667"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=0.8889 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti0.8889"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=50",
+  "hash": "ro1i120rotat50j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=100",
+  "hash": "ro1i120rotat100j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=150",
+  "hash": "ro1i120rotat150j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=200",
+  "hash": "ro1i120rotat200j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=250",
+  "hash": "ro1i120rotat250j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=300",
+  "hash": "ro1i120rotat300j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=350",
+  "hash": "ro1i120rotat350j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=400",
+  "hash": "ro1i120rotat400j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=450",
+  "hash": "ro1i120rotat450j0.5see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationperiod=500",
+  "hash": "ro1i120rotat500j0.5see1ti1"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "label": "timeshear=-1 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti-1"
+ },
+ {
+  "label": "timeshear=-1 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti-1"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.7778 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti-0.7778"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.5556 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti-0.5556"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.3333 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti-0.3333"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=-0.1111 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti-0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.1111 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti0.1111"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.3333 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti0.3333"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.5556 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti0.5556"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti0.7778"
+ },
+ {
+  "label": "timeshear=0.7778 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti0.7778"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=-0.02",
+  "hash": "ro0.5i120j0.5rotatio-0.02see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=-0.0156",
+  "hash": "ro0.5i120j0.5rotatio-0.0156see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=-0.0111",
+  "hash": "ro0.5i120j0.5rotatio-0.0111see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=-0.0067",
+  "hash": "ro0.5i120j0.5rotatio-0.0067see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=-0.0022",
+  "hash": "ro0.5i120j0.5rotatio-0.0022see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=0.0022",
+  "hash": "ro0.5i120j0.5rotatio0.0022see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=0.0067",
+  "hash": "ro0.5i120j0.5rotatio0.0067see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=0.0111",
+  "hash": "ro0.5i120j0.5rotatio0.0111see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=0.0156",
+  "hash": "ro0.5i120j0.5rotatio0.0156see1ti1"
+ },
+ {
+  "label": "timeshear=1 rotationspeedup=0.02",
+  "hash": "ro0.5i120j0.5rotatio0.02see1ti1"
+ }
+]

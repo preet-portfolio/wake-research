@@ -1,0 +1,4 @@
+[submodule "uji"]
+	path = uji
+	url = https://github.com/preet-portfolio/uji.git
+	branch = wake-series

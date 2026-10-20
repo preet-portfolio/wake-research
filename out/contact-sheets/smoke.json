@@ -1,0 +1,38 @@
+[
+ {
+  "label": "rotationspeed=0 timeshear=0",
+  "hash": "i200see1"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=0.5",
+  "hash": "i200see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=0 timeshear=1",
+  "hash": "i200see1ti1"
+ },
+ {
+  "label": "rotationspeed=0.5 timeshear=0",
+  "hash": "ro0.5i200see1"
+ },
+ {
+  "label": "rotationspeed=0.5 timeshear=0.5",
+  "hash": "ro0.5i200see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=0.5 timeshear=1",
+  "hash": "ro0.5i200see1ti1"
+ },
+ {
+  "label": "rotationspeed=1 timeshear=0",
+  "hash": "ro1i200see1"
+ },
+ {
+  "label": "rotationspeed=1 timeshear=0.5",
+  "hash": "ro1i200see1ti0.5"
+ },
+ {
+  "label": "rotationspeed=1 timeshear=1",
+  "hash": "ro1i200see1ti1"
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "label": "rotationspeed=0 expansionhori=0.99",
+  "hash": "e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=0.9922",
+  "hash": "e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=0.9944",
+  "hash": "e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=0.9967",
+  "hash": "e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=0.9989",
+  "hash": "e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=1.0011",
+  "hash": "e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=1.0033",
+  "hash": "e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=1.0056",
+  "hash": "e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=1.0078",
+  "hash": "e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0 expansionhori=1.01",
+  "hash": "e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=0.99",
+  "hash": "ro0.2222e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=0.9922",
+  "hash": "ro0.2222e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=0.9944",
+  "hash": "ro0.2222e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=0.9967",
+  "hash": "ro0.2222e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=0.9989",
+  "hash": "ro0.2222e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=1.0011",
+  "hash": "ro0.2222e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=1.0033",
+  "hash": "ro0.2222e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=1.0056",
+  "hash": "ro0.2222e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=1.0078",
+  "hash": "ro0.2222e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.2222 expansionhori=1.01",
+  "hash": "ro0.2222e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=0.99",
+  "hash": "ro0.4444e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=0.9922",
+  "hash": "ro0.4444e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=0.9944",
+  "hash": "ro0.4444e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=0.9967",
+  "hash": "ro0.4444e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=0.9989",
+  "hash": "ro0.4444e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=1.0011",
+  "hash": "ro0.4444e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=1.0033",
+  "hash": "ro0.4444e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=1.0056",
+  "hash": "ro0.4444e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=1.0078",
+  "hash": "ro0.4444e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.4444 expansionhori=1.01",
+  "hash": "ro0.4444e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=0.99",
+  "hash": "ro0.6667e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=0.9922",
+  "hash": "ro0.6667e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=0.9944",
+  "hash": "ro0.6667e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=0.9967",
+  "hash": "ro0.6667e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=0.9989",
+  "hash": "ro0.6667e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=1.0011",
+  "hash": "ro0.6667e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=1.0033",
+  "hash": "ro0.6667e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=1.0056",
+  "hash": "ro0.6667e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=1.0078",
+  "hash": "ro0.6667e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.6667 expansionhori=1.01",
+  "hash": "ro0.6667e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=0.99",
+  "hash": "ro0.8889e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=0.9922",
+  "hash": "ro0.8889e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=0.9944",
+  "hash": "ro0.8889e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=0.9967",
+  "hash": "ro0.8889e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=0.9989",
+  "hash": "ro0.8889e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=1.0011",
+  "hash": "ro0.8889e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=1.0033",
+  "hash": "ro0.8889e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=1.0056",
+  "hash": "ro0.8889e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=1.0078",
+  "hash": "ro0.8889e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=0.8889 expansionhori=1.01",
+  "hash": "ro0.8889e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=0.99",
+  "hash": "ro1.1111e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=0.9922",
+  "hash": "ro1.1111e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=0.9944",
+  "hash": "ro1.1111e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=0.9967",
+  "hash": "ro1.1111e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=0.9989",
+  "hash": "ro1.1111e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=1.0011",
+  "hash": "ro1.1111e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=1.0033",
+  "hash": "ro1.1111e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=1.0056",
+  "hash": "ro1.1111e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=1.0078",
+  "hash": "ro1.1111e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.1111 expansionhori=1.01",
+  "hash": "ro1.1111e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=0.99",
+  "hash": "ro1.3333e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=0.9922",
+  "hash": "ro1.3333e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=0.9944",
+  "hash": "ro1.3333e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=0.9967",
+  "hash": "ro1.3333e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=0.9989",
+  "hash": "ro1.3333e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=1.0011",
+  "hash": "ro1.3333e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=1.0033",
+  "hash": "ro1.3333e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=1.0056",
+  "hash": "ro1.3333e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=1.0078",
+  "hash": "ro1.3333e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.3333 expansionhori=1.01",
+  "hash": "ro1.3333e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=0.99",
+  "hash": "ro1.5556e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=0.9922",
+  "hash": "ro1.5556e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=0.9944",
+  "hash": "ro1.5556e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=0.9967",
+  "hash": "ro1.5556e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=0.9989",
+  "hash": "ro1.5556e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=1.0011",
+  "hash": "ro1.5556e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=1.0033",
+  "hash": "ro1.5556e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=1.0056",
+  "hash": "ro1.5556e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=1.0078",
+  "hash": "ro1.5556e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.5556 expansionhori=1.01",
+  "hash": "ro1.5556e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=0.99",
+  "hash": "ro1.7778e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=0.9922",
+  "hash": "ro1.7778e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=0.9944",
+  "hash": "ro1.7778e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=0.9967",
+  "hash": "ro1.7778e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=0.9989",
+  "hash": "ro1.7778e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=1.0011",
+  "hash": "ro1.7778e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=1.0033",
+  "hash": "ro1.7778e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=1.0056",
+  "hash": "ro1.7778e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=1.0078",
+  "hash": "ro1.7778e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=1.7778 expansionhori=1.01",
+  "hash": "ro1.7778e1.01i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=0.99",
+  "hash": "ro2e0.99i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=0.9922",
+  "hash": "ro2e0.9922i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=0.9944",
+  "hash": "ro2e0.9944i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=0.9967",
+  "hash": "ro2e0.9967i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=0.9989",
+  "hash": "ro2e0.9989i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=1.0011",
+  "hash": "ro2e1.0011i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=1.0033",
+  "hash": "ro2e1.0033i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=1.0056",
+  "hash": "ro2e1.0056i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=1.0078",
+  "hash": "ro2e1.0078i120rotat200j0.5see1"
+ },
+ {
+  "label": "rotationspeed=2 expansionhori=1.01",
+  "hash": "ro2e1.01i120rotat200j0.5see1"
+ }
+]

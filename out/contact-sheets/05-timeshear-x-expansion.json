@@ -1,0 +1,402 @@
+[
+ {
+  "label": "timeshear=0 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=0 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=17.7778 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti17.7778"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=35.5556 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti35.5556"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=53.3333 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti53.3333"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=71.1111 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti71.1111"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=88.8889 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti88.8889"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=106.6667 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti106.6667"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=124.4444 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti124.4444"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=142.2222 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti142.2222"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.98",
+  "hash": "r420e0.98ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.982",
+  "hash": "r420e0.982ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.984",
+  "hash": "r420e0.984ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.986",
+  "hash": "r420e0.986ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.988",
+  "hash": "r420e0.988ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.99",
+  "hash": "r420e0.99ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.992",
+  "hash": "r420e0.992ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.994",
+  "hash": "r420e0.994ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.996",
+  "hash": "r420e0.996ex0.99i100j0.3see1ti160"
+ },
+ {
+  "label": "timeshear=160 expansionhori=0.998",
+  "hash": "r420e0.998ex0.99i100j0.3see1ti160"
+ }
+]

@@ -1,0 +1,52 @@
+<!doctype html><meta charset="utf-8"><title>wake — interaction concepts</title>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f2eee4;--ink:#1c1b18;--mute:#8a857a;--line:#d9d3c5;--red:#d4462a}
+*{box-sizing:border-box}body{margin:0;background:#e6e1d5;color:var(--ink);font:12px "IBM Plex Mono",monospace;padding:28px}
+h1{font:italic 44px "Instrument Serif",serif;margin:0 0 4px}h2{font:28px "Instrument Serif",serif;margin:0}
+.row{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:20px}
+.card{background:var(--paper);border:1px solid var(--line);padding:16px;display:flex;flex-direction:column;gap:10px}
+.screen{position:relative;height:430px;border:1px solid var(--line);background:#fbf9f4;overflow:hidden}
+.tag{color:var(--mute)}.red{color:var(--red)}
+.block{border:1px solid var(--ink);padding:6px 8px;margin:6px;background:#fff;display:flex;justify-content:space-between}
+.block .g{color:var(--mute)}.knob{display:inline-block;width:60px;height:4px;background:var(--line);position:relative;top:-2px}
+.knob:after{content:"";position:absolute;left:var(--v);top:-4px;width:2px;height:12px;background:var(--red)}
+.handle{position:absolute;width:12px;height:12px;border:2px solid var(--red);border-radius:50%;background:#fff}
+.chip{position:absolute;background:var(--ink);color:var(--paper);padding:2px 6px;font-size:11px}
+p{margin:0;line-height:1.5}
+</style>
+<h1>wake</h1><div class="tag">three ways to play an instrument that has no presets and no wall of sliders</div>
+<svg width="0" height="0"><defs><g id="art">
+<path d="" id="spiral"/></g></defs></svg>
+<div class="row">
+<div class="card"><h2>A · Direct</h2><div class="screen" id="a">
+<div class="handle" style="left:184px;top:204px"></div><div class="chip" style="left:196px;top:186px">centre</div>
+<div class="handle" style="left:292px;top:120px"></div><div class="chip" style="left:304px;top:102px">radius · drag</div>
+<div class="handle" style="left:128px;top:262px;border-color:var(--ink)"></div><div class="chip" style="left:60px;top:282px">rotation origin</div>
+<div class="chip" style="left:12px;top:400px;background:var(--red)">scroll on canvas = time · shift-drag = twist</div></div>
+<p>You touch the drawing, not a control. Handles appear on hover: centre, radius, rotation origin, and the "now" edge of the delay. <span class="red">+</span> Immediate. <span class="tag">−</span> Can't reach every parameter or show the order of operations.</p></div>
+<div class="card"><h2>B · Stack</h2><div class="screen" id="b" style="display:grid;grid-template-columns:1fr 170px">
+<div id="b-art"></div><div style="border-left:1px solid var(--line);padding-top:6px;background:var(--paper)">
+<div class="tag" style="padding:0 8px">seed · circle 600</div>
+<div class="block"><span>⋮ delay</span><span class="knob" style="--v:70%"></span></div>
+<div class="block"><span>⋮ scale</span><span class="knob" style="--v:30%"></span></div>
+<div class="block" style="border-color:var(--red)"><span>⋮ rotate <span class="red">∿t</span></span><span class="knob" style="--v:55%"></span></div>
+<div class="block"><span>⋮ jitter</span><span class="knob" style="--v:10%"></span></div>
+<div class="tag" style="padding:4px 8px">+ block</div>
+<div class="tag" style="padding:10px 8px">mark · connected<br>clock · 60 steps<br>seed · 4</div></div></div>
+<p>The engine's real structure is shown: an ordered list of blocks you drag to reorder. Each block has one big knob, and clicking ∿ opens its time and along signals. <span class="red">+</span> Shows the idea and reaches everything. <span class="tag">−</span> More to read.</p></div>
+<div class="card"><h2>C · Gesture</h2><div class="screen" id="c">
+<svg viewBox="0 0 380 430" width="100%" height="100%"><path d="M60 330 C 120 120, 260 80, 300 200 S 200 380, 140 260" fill="none" stroke="#d4462a" stroke-width="3" stroke-dasharray="2 6" stroke-linecap="round"/>
+<text x="20" y="410" fill="#8a857a" font-family="IBM Plex Mono" font-size="11">your stroke → seed path · speed → rotation · pressure → delay</text></svg></div>
+<p>You draw one stroke. Its path becomes the seed and its speed and curvature set the blocks; then you watch the wake. <span class="red">+</span> Magical first 10 seconds. <span class="tag">−</span> Hard to refine and hard to reproduce on purpose.</p></div>
+</div>
+<p style="margin-top:20px;font-size:13px"><b>Recommendation: B, with A's handles on the canvas.</b> The stack is the idea, so the interface should show it. Direct handles handle the common moves (centre, radius, origin, the "now" edge). C becomes one seed type: "draw your own seed".</p>
+<script>
+// tiny preview of a time-sheared contracting ring, drawn into A and B
+function art(el,w,h){const s=document.createElementNS("http://www.w3.org/2000/svg","svg");s.setAttribute("viewBox",`0 0 ${w} ${h}`);s.style.width="100%";s.style.height="100%";
+const N=240,T=46,cx=w/2,cy=h/2;let pts=[...Array(N)].map((_,i)=>[cx+150*Math.cos(i/N*2*Math.PI),cy+150*Math.sin(i/N*2*Math.PI)]);
+for(let n=0;n<T;n++){let d="";pts=pts.map((p,i)=>{const t=n-46*i/N;if(t<0){return p}d+=(d&&t>=1?"L":"M")+p[0].toFixed(1)+" "+p[1].toFixed(1);
+const a=1.1*Math.PI/180,ox=cx*0.8,oy=cy;let x=cx+(p[0]-cx)*0.976,y=cy+(p[1]-cy)*0.976;const c=Math.cos(a),sn=Math.sin(a);return[ox+(x-ox)*c-(y-oy)*sn,oy+(x-ox)*sn+(y-oy)*c]});
+const pa=document.createElementNS("http://www.w3.org/2000/svg","path");pa.setAttribute("d",d);pa.setAttribute("fill","none");pa.setAttribute("stroke","#1c1b18");pa.setAttribute("stroke-width","0.6");s.appendChild(pa)}el.prepend(s)}
+art(document.getElementById("a"),380,430);art(document.getElementById("b-art"),210,430);
+</script>

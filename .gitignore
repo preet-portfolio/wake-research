@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+.remember/
+.DS_Store
+# wake is its own repository: github.com/preet-portfolio/wake
+wake/
+# scratch renders from the determinism tests (6–10 MB each)
+out/svg/det*
+out/svg/unseeded*
+out/plot-ready/det*
+out/plot-ready/wake-default*
